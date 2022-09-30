@@ -1,0 +1,195 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+% Used in the explanation text
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks = true,
+    citecolor = {blue},
+    urlcolor = {blue},
+}
+
+% Used by the template
+\usepackage{setspace}
+\usepackage{changepage} % to adjust margins
+\usepackage[breakable]{tcolorbox}
+\usepackage{float} % for tables inside tcolorbox https://tex.stackexchange.com/a/274342
+\usepackage{enumitem}
+\usepackage[authoryear, round]{natbib}
+
+
+\newtcolorbox[auto counter]{pabox}[2][]{%
+colback=white!10!white, breakable, sharp corners, boxrule=0.7pt, title= \textbf{Problem Based Learning ~\thetcbcounter #2}, #1}
+
+\title{Library record}
+\author{Tatiana Balbi Fraga}
+\date{Sept 2022}
+
+\begin{document}
+
+\maketitle
+
+% Each section is supposed to be brief, in the form of a bullet list.
+% This environment formats the lists in each model card section in a compact format to help
+% the card fit into the recommended "one to two pages".
+\newenvironment{mcsection}[1]
+    {%
+        \textbf{#1}
+
+        % Reduce margins to use the space more effectively and help fit in the recommended "one to two pages"
+        % Use the bullet list format as shown in the model card paper to increase readability
+        \begin{itemize}[leftmargin=*,topsep=0pt,itemsep=-1ex,partopsep=1ex,parsep=1ex,after=\vspace{\medskipamount}]
+    }
+    {%
+        \end{itemize}
+    }
+
+% Optional: reduce margins single line to fit in "one to two pages", as recommended
+\begin{adjustwidth}{-60pt}{-30pt}
+\begin{singlespace}
+
+\tcbset{colback=white!10!white}
+
+\begin{minipage}{1.26\textwidth}
+
+\begin{pabox}[label={myusecounter}]{\hfill  \cite{Fernandes2021}}
+% Change to a smaller, but still legible font size to help fit in the recommended "one to two pages"
+
+\textbf{Brief:} \\
+
+The author portrays his experience related to PBL approach, both as a student and as a tutor. He reports how important it is for the tutor to be prepared to apply this approach and reports that an unprepared tutor can generate a strongly negative experience for the students, harming the learning process.\\
+
+\textbf{PBL definition:}
+\begin{quote}
+ ``Problem-based learning (PBL) is an active learning method that allows for students to self-identify their learning needs and work together in small groups to achieve their learning objectives."
+\end{quote} 
+
+\tcblower
+
+\bibliographystyle{unsrtnat}
+\bibliography{bibFile}
+
+\end{pabox}
+\end{minipage}
+
+\tcbset{colback=white!10!white}
+\begin{tcolorbox}[title=\textbf{Model Card - CheXNet},
+    breakable, sharp corners, boxrule=0.7pt]
+
+% Change to a smaller, but still legible font size to help fit in the recommended "one to two pages"
+\small{
+
+Refer to section 4.1 of the \href{https://arxiv.org/abs/1810.03993}{model card paper } -- remove this line after filling in this section.
+
+\begin{mcsection}{Model Details}
+    \item Detail 1...
+    \item Detail 2...
+\end{mcsection}
+
+Refer to section 4.2 of the \href{https://arxiv.org/abs/1810.03993}{model card paper } -- remove this line after filling in this section.
+
+\begin{mcsection}{Intended Use}
+    \item Intended use 1...
+\end{mcsection}
+
+Refer to section 4.3 of the \href{https://arxiv.org/abs/1810.03993}{model card paper } -- remove this line after filling in this section.
+
+\begin{mcsection}{Factors}
+    \item Factors 1...
+\end{mcsection}
+
+Refer to section 4.4 of the \href{https://arxiv.org/abs/1810.03993}{model card paper } -- remove this line after filling in this section.
+
+\begin{mcsection}{Metrics}
+    \item Metrics 1....
+\end{mcsection}
+
+Refer to section 4.5 of the \href{https://arxiv.org/abs/1810.03993}{model card paper } -- remove this line after filling in this section.
+
+\begin{mcsection}{Evaluation Data}
+    \item Evaluation data 1...
+\end{mcsection}
+
+Refer to section 4.6 of the \href{https://arxiv.org/abs/1810.03993}{model card paper } -- remove this line after filling in this section.
+
+\begin{mcsection}{Training Data}
+    \item Training data 1...
+\end{mcsection}
+
+\pagebreak
+
+Refer to section 4.8 of the \href{https://arxiv.org/abs/1810.03993}{model card paper } -- remove this line after filling in this section.
+
+\begin{mcsection}{Ethical Considerations}
+    \item Ethical considerations 1....
+\end{mcsection}
+
+Refer to section 4.9 of the \href{https://arxiv.org/abs/1810.03993}{model card paper } -- remove this line after filling in this section.
+
+\begin{mcsection}{Caveats and Recommendations}
+    \item Caveats and recommendations 1...
+\end{mcsection}
+
+Refer to section 4.7 of the \href{https://arxiv.org/abs/1810.03993}{model card paper } -- remove this line after filling in this section.
+
+\textbf{Quantitative Analyses}
+
+% Sample table inside tcolorbox
+\begin{table}[H]
+\centering
+\small{
+\begin{tabular}{lr}
+Measurement 1       & 0.751  \\
+Measurement 2       & 0.762 \\
+Measurement 3       & 0.773 \\
+Measurement 4       & 0.784 \\
+Measurement average & 0.768  \\ \hline
+\textbf{Model measurement}  & \textbf{0.791} \\ \hline
+\end{tabular} } \\
+\caption[Short caption used in list of tables.]{\small{Longer caption to explain what the measurements are.}}
+\end{table}
+
+} % end font size change
+\end{tcolorbox}
+\end{singlespace}
+\end{adjustwidth}
+
+\end{document}
+
+About
+
+    About us
+    Our values
+    Careers
+    Press & awards
+    Blog
+
+Learn
+
+    LaTeX in 30 minutes
+    Templates
+    Webinars
+    Tutorials
+    How to insert images
+    How to create tables
+
+Plans & pricing
+
+    Premium features
+    For individuals & groups
+    For enterprise
+    For universities
+    For students
+
+Get involved
+
+    Become an Overleaf advisor
+    Participate in user research
+
+Help
+
+    Documentation
+    Contact us
+    Website status
+
+© 2022 Overleaf
