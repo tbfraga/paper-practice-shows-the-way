@@ -1,42 +1,170 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.9.30)  4 OCT 2022 13:33
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.9.30)  4 OCT 2022 15:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**library.tex
-(./library.tex
+**Hung2021.tex
+(./Hung2021.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.cls
+Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files stan
+dalone
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count167
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count168
+\c@sapage=\count169
+
+(/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.cfg
+File: standalone.cfg 2018/03/26 v1.3a Default configuration file for 'standalon
+e' class
+)
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count170
+\c@section=\count171
+\c@subsection=\count172
+\c@subsubsection=\count173
+\c@paragraph=\count174
+\c@subparagraph=\count175
+\c@figure=\count176
+\c@table=\count177
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-)
+))
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks14
-\inpenc@posthook=\toks15
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.sty
+Package: standalone 2018/03/26 v1.3a Package to include TeX sub-files with prea
+mbles
+
+(/usr/share/texlive/texmf-dist/tex/latex/currfile/currfile.sty
+Package: currfile 2015/04/23 v0.7c Provides the file path elements of the curre
+nt input file
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2020/02/03 v0.7 Hooks for input files
 )
+\c@currfiledepth=\count178
+)
+\sa@out=\write3
+
+(./Hung2021.sta) (/usr/share/texlive/texmf-dist/tex/latex/gincltex/gincltex.sty
+(/usr/share/texlive/texmf-dist/tex/latex/svn-prov/svn-prov.sty
+Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
+)
+Package: gincltex 2011/09/04 v0.3 Include external LaTeX files like graphics
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box45
+)
+\tc@llx=\dimen137
+\tc@lly=\dimen138
+\tc@urx=\dimen139
+\tc@ury=\dimen140
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen141
+\adjbox@Height=\dimen142
+\adjbox@Depth=\dimen143
+\adjbox@Totalheight=\dimen144
+\adjbox@pwidth=\dimen145
+\adjbox@pheight=\dimen146
+\adjbox@pdepth=\dimen147
+\adjbox@ptotalheight=\dimen148
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count179
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box46
+\sift@deathcycles=\count180
+\@vwid@loff=\dimen149
+\@vwid@roff=\dimen150
+))
+\gincltex@box=\box47
+)
+(/usr/share/texlive/texmf-dist/tex/latex/filemod/filemod-expmin.sty
+Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times
+ (expandable; minimal)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/import/import.sty
+Package: import 2009/03/23  v 5.1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
 (/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -47,13 +175,6 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks16
-)
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
@@ -70,12 +191,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-)
-\@linkdim=\dimen135
-\Hy@linkcounter=\count175
-\Hy@pagecounter=\count176
+\@linkdim=\dimen151
+\Hy@linkcounter=\count181
+\Hy@pagecounter=\count182
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
@@ -88,8 +206,8 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count177
-\pdfmajorversion=\count178
+\Hy@SavedSpaceFactor=\count183
+\pdfmajorversion=\count184
 Package hyperref Info: Hyper figures OFF on input line 4547.
 Package hyperref Info: Link nesting OFF on input line 4552.
 Package hyperref Info: Hyper index ON on input line 4555.
@@ -97,14 +215,14 @@ Package hyperref Info: Plain pages OFF on input line 4562.
 Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count179
+\c@Hy@tempcnt=\count185
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen136
+\XeTeXLinkMargin=\dimen152
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -113,9 +231,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count180
-\Field@Width=\dimen137
-\Fld@charsize=\dimen138
+\Fld@menulength=\count186
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
 Package hyperref Info: Hyper figures OFF on input line 6430.
 Package hyperref Info: Link nesting OFF on input line 6435.
 Package hyperref Info: Hyper index ON on input line 6438.
@@ -129,9 +247,9 @@ LaTeX Info: Redefining \pageref on input line 6504.
 (/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count181
-\c@Item=\count182
-\c@Hfootnote=\count183
+\Hy@abspage=\count187
+\c@Item=\count188
+\c@Hfootnote=\count189
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -140,10 +258,9 @@ File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count184
-\c@bookmark@seq@number=\count185
+\Fld@listcount=\count190
+\c@bookmark@seq@number=\count191
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -163,8 +280,9 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 )
 (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count186
-\cp@tempcnt=\count187
+\c@cp@cntr=\count192
+\cp@tempcnt=\count193
+LaTeX Info: Redefining \checkoddpage on input line 59.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
 Package: tcolorbox 2019/11/15 version 4.22 text color boxes
@@ -172,13 +290,13 @@ Package: tcolorbox 2019/11/15 version 4.22 text color boxes
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks17
-\pgfutil@tempdima=\dimen139
-\pgfutil@tempdimb=\dimen140
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen155
+\pgfutil@tempdimb=\dimen156
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
 ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box45
+\pgfutil@abb=\box48
 (/usr/share/texlive/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
@@ -189,58 +307,38 @@ Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
 Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-))
-\Gin@req@height=\dimen141
-\Gin@req@width=\dimen142
-)
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks18
-\pgfkeys@temptoks=\toks19
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
 ex
-\pgfkeys@tmptoks=\toks20
+\pgfkeys@tmptoks=\toks21
 ))
-\pgf@x=\dimen143
-\pgf@y=\dimen144
-\pgf@xa=\dimen145
-\pgf@ya=\dimen146
-\pgf@xb=\dimen147
-\pgf@yb=\dimen148
-\pgf@xc=\dimen149
-\pgf@yc=\dimen150
-\pgf@xd=\dimen151
-\pgf@yd=\dimen152
-\w@pgf@writea=\write3
+\pgf@x=\dimen157
+\pgf@y=\dimen158
+\pgf@xa=\dimen159
+\pgf@ya=\dimen160
+\pgf@xb=\dimen161
+\pgf@yb=\dimen162
+\pgf@xc=\dimen163
+\pgf@yc=\dimen164
+\pgf@xd=\dimen165
+\pgf@yd=\dimen166
+\w@pgf@writea=\write4
 \r@pgf@reada=\read2
-\c@pgf@counta=\count188
-\c@pgf@countb=\count189
-\c@pgf@countc=\count190
-\c@pgf@countd=\count191
-\t@pgf@toka=\toks21
-\t@pgf@tokb=\toks22
-\t@pgf@tokc=\toks23
-\pgf@sys@id@count=\count192
+\c@pgf@counta=\count194
+\c@pgf@countb=\count195
+\c@pgf@countc=\count196
+\c@pgf@countd=\count197
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count198
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
@@ -256,8 +354,8 @@ File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count193
-\pgfsyssoftpath@bigbuffer@items=\count194
+\pgfsyssoftpath@smallbuffer@items=\count199
+\pgfsyssoftpath@bigbuffer@items=\count266
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -286,12 +384,12 @@ Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen153
-\pgfmath@count=\count195
-\pgfmath@box=\box46
-\pgfmath@toks=\toks24
-\pgfmath@stack@operand=\toks25
-\pgfmath@stack@operation=\toks26
+\pgfmath@dimen=\dimen167
+\pgfmath@count=\count267
+\pgfmath@box=\box49
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
@@ -311,58 +409,58 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count196
+\c@pgfmathroundto@lastzeros=\count268
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
 x
 File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@picminx=\dimen154
-\pgf@picmaxx=\dimen155
-\pgf@picminy=\dimen156
-\pgf@picmaxy=\dimen157
-\pgf@pathminx=\dimen158
-\pgf@pathmaxx=\dimen159
-\pgf@pathminy=\dimen160
-\pgf@pathmaxy=\dimen161
-\pgf@xx=\dimen162
-\pgf@xy=\dimen163
-\pgf@yx=\dimen164
-\pgf@yy=\dimen165
-\pgf@zx=\dimen166
-\pgf@zy=\dimen167
+\pgf@picminx=\dimen168
+\pgf@picmaxx=\dimen169
+\pgf@picminy=\dimen170
+\pgf@picmaxy=\dimen171
+\pgf@pathminx=\dimen172
+\pgf@pathmaxx=\dimen173
+\pgf@pathminy=\dimen174
+\pgf@pathmaxy=\dimen175
+\pgf@xx=\dimen176
+\pgf@xy=\dimen177
+\pgf@yx=\dimen178
+\pgf@yy=\dimen179
+\pgf@zx=\dimen180
+\pgf@zy=\dimen181
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
 code.tex
 File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@path@lastx=\dimen168
-\pgf@path@lasty=\dimen169
+\pgf@path@lastx=\dimen182
+\pgf@path@lasty=\dimen183
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
 .tex
 File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@shorten@end@additional=\dimen170
-\pgf@shorten@start@additional=\dimen171
+\pgf@shorten@end@additional=\dimen184
+\pgf@shorten@start@additional=\dimen185
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
 x
 File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfpic=\box47
-\pgf@hbox=\box48
-\pgf@layerbox@main=\box49
-\pgf@picture@serial@count=\count197
+\pgfpic=\box50
+\pgf@hbox=\box51
+\pgf@layerbox@main=\box52
+\pgf@picture@serial@count=\count269
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
 File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgflinewidth=\dimen172
+\pgflinewidth=\dimen186
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
 s.code.tex
 File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@pt@x=\dimen173
-\pgf@pt@y=\dimen174
-\pgf@pt@temp=\dimen175
+\pgf@pt@x=\dimen187
+\pgf@pt@y=\dimen188
+\pgf@pt@temp=\dimen189
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -378,13 +476,13 @@ File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
 x
 File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfarrowsep=\dimen176
+\pgfarrowsep=\dimen190
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@max=\dimen177
-\pgf@sys@shading@range@num=\count198
-\pgf@shadingcount=\count199
+\pgf@max=\dimen191
+\pgf@sys@shading@range@num=\count270
+\pgf@shadingcount=\count271
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -392,7 +490,7 @@ File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
 tex
 File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfexternal@startupbox=\box50
+\pgfexternal@startupbox=\box53
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
 x
@@ -411,23 +509,23 @@ File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfnodeparttextbox=\box51
+\pgfnodeparttextbox=\box54
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
 .sty
 Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@nodesepstart=\dimen178
-\pgf@nodesepend=\dimen179
+\pgf@nodesepstart=\dimen192
+\pgf@nodesepend=\dimen193
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
 .sty
 Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
 )) (/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks27
-\verbatim@line=\toks28
+\every@verbatim=\toks28
+\verbatim@line=\toks29
 \verbatim@in@stream=\read3
 )
 (/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
@@ -436,88 +534,120 @@ Package: environ 2014/05/04 v0.3 A new way to define environments
 (/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )
-\@envbody=\toks29
+\@envbody=\toks30
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count266
+\etb@tempcnta=\count272
 )
-\tcb@titlebox=\box52
-\tcb@upperbox=\box53
-\tcb@lowerbox=\box54
-\tcb@phantombox=\box55
-\c@tcbbreakpart=\count267
-\c@tcblayer=\count268
-\tcolorbox@number=\count269
-\tcb@temp=\box56
-\tcb@temp=\box57
-\tcb@temp=\box58
+\tcb@titlebox=\box55
+\tcb@upperbox=\box56
+\tcb@lowerbox=\box57
+\tcb@phantombox=\box58
+\c@tcbbreakpart=\count273
+\c@tcblayer=\count274
+\tcolorbox@number=\count275
 \tcb@temp=\box59
-\tcb@out=\write4
-\tcb@record@out=\write5
+\tcb@temp=\box60
+\tcb@temp=\box61
+\tcb@temp=\box62
+\tcb@out=\write5
+\tcb@record@out=\write6
 
 (/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
 Library (tcolorbox): 'tcbbreakable.code.tex' version '4.22'
-\tcb@testbox=\box60
-\tcb@totalupperbox=\box61
-\tcb@totallowerbox=\box62
+\tcb@testbox=\box63
+\tcb@totalupperbox=\box64
+\tcb@totallowerbox=\box65
 )) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count270
-\float@exts=\toks30
-\float@box=\box63
-\@float@everytoks=\toks31
-\@floatcapt=\box64
+\c@float@type=\count276
+\float@exts=\toks31
+\float@box=\box66
+\@float@everytoks=\toks32
+\@floatcapt=\box67
 )
 (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks33
 \labelindent=\skip50
-\enit@outerparindent=\dimen180
-\enit@toks=\toks32
-\enit@inbox=\box65
-\enit@count@id=\count271
-\enitdp@description=\count272
+\enit@outerparindent=\dimen194
+\enit@toks=\toks34
+\enit@inbox=\box68
+\enit@count@id=\count277
+\enitdp@description=\count278
 )
 (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip51
 \bibsep=\skip52
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count273
+\c@NAT@ctr=\count279
 )
-\c@tcb@cnt@pabox=\count274
+\c@tcb@cnt@pabox=\count280
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count275
-\l__pdf_internal_box=\box66
+\l__kernel_color_stack_int=\count281
+\l__pdf_internal_box=\box69
 )
-(./library.aux
+(./Hung2021.aux)
+\openout1 = `Hung2021.aux'.
 
-LaTeX Warning: Label `myusecounter' multiply defined.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+ (./Hung2021.sta)
+\openout3 = `Hung2021.sta'.
 
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count282
+\scratchdimen=\dimen195
+\scratchbox=\box70
+\nofMPsegments=\count283
+\nofMParguments=\count284
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count285
+\MPscratchDim=\dimen196
+\MPnumerator=\count286
+\makeMPintoPDFobject=\count287
+\everyMPtoPDFconversion=\toks36
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 )
-\openout1 = `library.aux'.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-\AtBeginShipoutBox=\box67
-Package hyperref Info: Link coloring ON on input line 28.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box71
+Package hyperref Info: Link coloring ON on input line 23.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -526,151 +656,51 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count276
+\c@section@level=\count288
 )
-LaTeX Info: Redefining \ref on input line 28.
-LaTeX Info: Redefining \pageref on input line 28.
-LaTeX Info: Redefining \nameref on input line 28.
+LaTeX Info: Redefining \ref on input line 23.
+LaTeX Info: Redefining \pageref on input line 23.
+LaTeX Info: Redefining \nameref on input line 23.
 
-(./library.out) (./library.out)
-\@outlinefile=\write6
-\openout6 = `library.out'.
+(./Hung2021.out) (./Hung2021.out)
+\@outlinefile=\write7
+\openout7 = `Hung2021.out'.
 
  ABD: EveryShipout initializing macros
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count277
-\scratchdimen=\dimen181
-\scratchbox=\box68
-\nofMPsegments=\count278
-\nofMParguments=\count279
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count280
-\MPscratchDim=\dimen182
-\MPnumerator=\count281
-\makeMPintoPDFobject=\count282
-\everyMPtoPDFconversion=\toks34
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+(./Hung2021.bbl
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 31.
+(Font)              <7> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 31.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 31.
+(Font)              <5> on input line 14.
+) [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 67--68
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 69--70
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 71--72
-
- []
-
-Runaway argument?
-! Paragraph ended before \bibliography was complete.
-<to be read again> 
-                   \par 
-l.83 
-     
-I suspect you've forgotten a `}', causing me to apply this
-control sequence to too much text. How can we recover?
-My plan is to forget the whole thing and hope for the best.
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 85.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 85.
-
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
-
- []
-
-(./library.bbl)
-
-Package tcolorbox Warning: The lower box part has become overfull on input line
- 109.
-
-
-Overfull \hbox (14.6981pt too wide) in paragraph at lines 87--111
-[]$[]$ 
- []
-
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 179.
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3pdfTeX warning (ext4
-): destination with the same identifier (name{table.1}) has been already used, 
-duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.195 \end{document}
-                    ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 195.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 195.
- (./library.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 195.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 195.
-Package rerunfilecheck Info: File `library.out' has not changed.
+(./Hung2021.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
+Package rerunfilecheck Info: File `Hung2021.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 195.
  ) 
 Here is how much of TeX's memory you used:
- 16128 strings out of 483140
- 308713 string characters out of 5965151
- 556745 words of memory out of 5000000
- 30838 multiletter control sequences out of 15000+600000
- 538357 words of font info for 44 fonts, out of 8000000 for 9000
+ 17749 strings out of 483140
+ 338074 string characters out of 5965151
+ 578828 words of memory out of 5000000
+ 32397 multiletter control sequences out of 15000+600000
+ 533765 words of font info for 29 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 59i,9n,75p,1013b,827s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/tbfraga/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm0900.6
-00pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmtt10.pfb>
-Output written on library.pdf (3 pages, 126677 bytes).
+ 67i,7n,75p,922b,699s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Hung2021.pdf (1 page, 69511 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
+ 43 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
+ 5 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

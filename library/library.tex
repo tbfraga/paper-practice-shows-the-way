@@ -21,7 +21,7 @@
 \newtcolorbox[auto counter]{pabox}[2][]{%
 colback=white!10!white, breakable, sharp corners, boxrule=0.7pt, title= \textbf{Problem Based Learning ~\thetcbcounter #2}, #1}
 
-\title{Library record}
+\title{PBL library record}
 \author{Tatiana Balbi Fraga}
 \date{Sept 2022}
 
@@ -74,11 +74,41 @@ The author presents a good example of application of Borton’s Development Fram
 
 \tcblower
 
+
+%\footcitetext{Fernandes2021}
+
 \bibliographystyle{unsrtnat}
-\bibliography{bibFile}
+\bibliography
+%\bibliography{bibFile}
 
 \end{pabox}
 \end{minipage}
+
+\begin{minipage}{1.26\textwidth}
+
+\begin{pabox}[label={myusecounter}]{\hfill  \cite{Hung2021}}
+% Change to a smaller, but still legible font size to help fit in the recommended "one to two pages"
+
+\textbf{brief:} \\
+
+The author ...\\
+
+\textbf{PBL definition:}
+\begin{quote}
+ ``."
+\end{quote} 
+
+
+
+\tcblower
+
+\bibliographystyle{unsrtnat}
+\bibliography{bibFile}
+
+
+\end{pabox}
+\end{minipage}
+
 
 \tcbset{colback=white!10!white}
 \begin{tcolorbox}[title=\textbf{Model Card - CheXNet},

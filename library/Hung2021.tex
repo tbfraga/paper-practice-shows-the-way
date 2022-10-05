@@ -1,0 +1,53 @@
+\documentclass[class=article, crop=false]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[subpreambles=true]{standalone}
+\usepackage{import}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks = true,
+    citecolor = {blue},
+    urlcolor = {blue},
+}
+
+% Used by the template
+\usepackage{setspace}
+\usepackage{changepage} % to adjust margins
+\usepackage[breakable]{tcolorbox}
+\usepackage{float} % for tables inside tcolorbox https://tex.stackexchange.com/a/274342
+\usepackage{enumitem}
+\usepackage[authoryear, round]{natbib}
+
+\newtcolorbox[auto counter]{pabox}[2][]{%
+colback=white!10!white, breakable, sharp corners, boxrule=0.7pt, title= \textbf{Problem Based Learning ~\thetcbcounter #2}, #1}
+
+\begin{document}
+
+% Optional: reduce margins single line to fit in "one to two pages", as recommended
+\begin{adjustwidth}{-60pt}{-30pt}
+\begin{singlespace}
+
+\tcbset{colback=white!10!white}
+
+\begin{minipage}{\textwidth}
+
+\begin{pabox}[label={myusecounter}]{\hfill  \cite{Hung2021}}
+% Change to a smaller, but still legible font size to help fit in the recommended "one to two pages"
+
+\textbf{brief:}
+\vspace{5pt}
+
+Summary of the subjects covered in the the articles in the journal's edition: social knowledge co-construction during the PBL process; PBL in big classroom groups...
+\vspace{5pt}
+
+\tcblower
+
+\bibliographystyle{unsrtnat}
+\bibliography{bibFile}
+
+\end{pabox}
+\end{minipage}
+
+\end{singlespace}
+\end{adjustwidth}
+
+\end{document}

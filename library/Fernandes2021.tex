@@ -1,0 +1,70 @@
+\documentclass[class=article, crop=false]{standalone}
+\usepackage[utf8]{inputenc}
+\usepackage[subpreambles=true]{standalone}
+\usepackage{import}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks = true,
+    citecolor = {blue},
+    urlcolor = {blue},
+}
+
+% Used by the template
+\usepackage{setspace}
+\usepackage{changepage} % to adjust margins
+\usepackage[breakable]{tcolorbox}
+\usepackage{float} % for tables inside tcolorbox https://tex.stackexchange.com/a/274342
+\usepackage{enumitem}
+\usepackage[authoryear, round]{natbib}
+
+\newtcolorbox[auto counter]{pabox}[2][]{%
+colback=white!10!white, breakable, sharp corners, boxrule=0.7pt, title= \textbf{Problem Based Learning ~\thetcbcounter #2}, #1}
+
+\begin{document}
+
+% Optional: reduce margins single line to fit in "one to two pages", as recommended
+\begin{adjustwidth}{-60pt}{-30pt}
+\begin{singlespace}
+
+\tcbset{colback=white!10!white}
+
+\begin{minipage}{\textwidth}
+
+\begin{pabox}[label={myusecounter}]{\hfill  \cite{Fernandes2021}}
+% Change to a smaller, but still legible font size to help fit in the recommended "one to two pages"
+
+\textbf{brief:}
+\vspace{5pt}
+
+The author portrays his experience related to PBL approach, both as a student and as a tutor. He reports how important it is for the tutor to be prepared to apply this approach and reports that an unprepared tutor can generate a strongly negative experience for the students, harming the learning process.
+\vspace{5pt}
+
+\textbf{PBL definition:}
+
+\begin{quote}
+ ``Problem-based learning (PBL) is an active learning method that allows for students to self-identify their learning needs and work together in small groups to achieve their learning objectives."
+\end{quote} 
+
+\textbf{PBL method}
+\vspace{5pt}
+
+It is applied as a discipline at the end of the pharmacy course which lasts for 8 weeks. Groups of eight students are formed, and a different tutor, with experience in the area, is assigned to each group. A clinical problem is presented to the students, and the group must work on solving this problem by exchanging experiences and learning. Each student identifies gaps in his / her own knowledge, and has the mission to delve deeper into the issues related to the identified gaps, with the help of the Borton’s Development Framework. The groups have weekly meetings where they must discuss the subject and define new learning goals, always focusing on solving the problem.
+\vspace{5pt}
+
+\textbf{useful:}
+\vspace{5pt}
+
+The author presents a good example of application of Borton’s Development Framework.
+
+\tcblower
+
+\bibliographystyle{unsrtnat}
+\bibliography{bibFile}
+
+\end{pabox}
+\end{minipage}
+
+\end{singlespace}
+\end{adjustwidth}
+
+\end{document}
